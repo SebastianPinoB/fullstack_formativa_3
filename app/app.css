@@ -1,0 +1,13 @@
+/* Sólo estilos de tipografía (fuente). */
+
+:root {
+  --font-sans: "Inter", ui-sans-serif, system-ui,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+body {
+  font-family: var(--font-sans);
+  margin: 0;
+}
+
+/* Nota: no hay resets ni utilidades (Tailwind) aquí. */
