@@ -1,4 +1,4 @@
-import MisEnvios from "~/components/organisms/misEnvios";
+import MisEnvios from "~/components/layouts/misEnvios";
 import MainLayout from "~/components/layouts/mainLayout";
 
 
