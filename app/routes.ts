@@ -5,6 +5,6 @@ export default [
     index("routes/home.tsx"),
     route("crearEnvio", "components/layouts/crearEnvio.tsx"),
     route("misEnvios", "components/layouts/misEnvios.tsx"),
-    route("configuracion", "components/layouts/Actualizar encomienda.tsx"),
+    route("configuracion", "components/layouts/actualizarEncomienda.tsx"),
   ]),
 ] satisfies RouteConfig;
